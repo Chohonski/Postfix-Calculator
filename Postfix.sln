@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Postfix", "Postfix\Postfix.vcxproj", "{700AC8B2-301E-4081-B83A-3AF37586DA3E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListIterator", "ListIterator\ListIterator.vcxproj", "{63606A32-4143-4E3C-88BE-FE94FB3AD121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700AC8B2-301E-4081-B83A-3AF37586DA3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{700AC8B2-301E-4081-B83A-3AF37586DA3E}.Debug|Win32.Build.0 = Debug|Win32
+		{700AC8B2-301E-4081-B83A-3AF37586DA3E}.Release|Win32.ActiveCfg = Release|Win32
+		{700AC8B2-301E-4081-B83A-3AF37586DA3E}.Release|Win32.Build.0 = Release|Win32
+		{63606A32-4143-4E3C-88BE-FE94FB3AD121}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63606A32-4143-4E3C-88BE-FE94FB3AD121}.Debug|Win32.Build.0 = Debug|Win32
+		{63606A32-4143-4E3C-88BE-FE94FB3AD121}.Release|Win32.ActiveCfg = Release|Win32
+		{63606A32-4143-4E3C-88BE-FE94FB3AD121}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
